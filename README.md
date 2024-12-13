@@ -5,20 +5,20 @@
 ## About me
 I am a passionate Data Scientist/Engineer with a strong foundation in statistics and software engineering.
 
-🔭 Currently working on the deployment of Airflow in a Kubernetes cluster.
+🔭 Currently working on Apache Spark on a Kubernetes Cluster.
 
-🌱 Currently learning C++.
+🌱 Currently learning CUDA and strengthening my skills as a Data Scientist.
 
 ## Career
 - 👨‍🎓 Data Science (M. Sc.) @ TU Dortmund (specialized in NLP)
 - 🖥️ +5 years of experience in Consulting
 - 🖥️ +3 years of experience in Software Engineering
-- 🤝 Data Science Mentor @ TechLabs Münster
+- 🤝 Data Science & Deep Learning Mentor @ [TechLabs Münster](https://ms.techlabs.org/)
 
 ## Tech Stack
-- Languages: Python, SQL, bash, R, C/C++
-- Data Science: Pandas, Numpy, Scikit-Learn, 
-- Data Engineering: Apache Airflow
+- Languages: Python, SQL, R, bash, C/C++
+- Data Science: Pandas, Numpy, Scikit-Learn
+- Data Engineering: Apache Airflow, Apache Spark
 - Backend: Docker/Podman, AWS, Kubernetes, FastAPI, Pytest
 
 ### Leetcode
