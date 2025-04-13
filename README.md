@@ -24,7 +24,7 @@ I am a passionate Data Scientist/Engineer with a strong foundation in statistics
 ### Leetcode
   <div align="center">
 
-  ![LeetCode Stats](https://leetcode.card.workers.dev/HeLinx?theme=auto&font=baloo&extension=null)
+  ![LeetCode Stats](https://leetcode.card.workers.dev/HeLinx?theme=dark&font=source_code_pro&extension=activity)
 
   </div>
 
